@@ -7,8 +7,7 @@ python train_model.py
 
 Run the Web App: Once the model is trained, run the app.py to launch the web interface:
 
-bash
-Copy
-Edit
 streamlit run app.py
+
+
 The app allows users to input features like Overall Quality, Garage Capacity, etc., and it will predict the house price.
